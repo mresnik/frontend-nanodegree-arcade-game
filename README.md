@@ -1,6 +1,28 @@
-frontend-nanodegree-arcade-game
-===============================
+# Frontend Nanodegree Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This is the 3rd submitted project in the Udacity Frontend Nanodegree. It is a "Classic Arcade Game Clone" based on Frogger. The object of the
+game is to cross the road without being hit by any of the bugs (enemies) as they pass by.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Getting Started
+
+To run the game simply open the index.html file in your browser.
+
+## Playing The Game
+
+Use the up, down, left and right arrow keys to move the player icon across the road while trying to avoid the enemy bugs. Should you "collide"
+with a bug you will be returned to the starting point. Cross all the way across without a collision to get to the river and you win! You will
+immediately be returned to the starting point so that you can play again.
+
+### Prerequisites
+
+All of the files that you will need are included.
+
+## Built With
+
+* HTML, CSS, and JavaScript. All updating from the original files done in app.js and READE.md
+
+## Authors
+
+* **Mike Wales** - *Initial work* - [MichaelWales.com](https://www.michaelwales.com)
+
+* Project submitted by Marc Resnik 
